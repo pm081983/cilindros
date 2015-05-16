@@ -1,0 +1,24 @@
+{
+  "name": "Cilindros",
+  "version": "1",
+  "description": "Paquetes del frontend para el proyecto Cilindros",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Pablo Ivan Moreno"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.2.2"
+  }
+}
